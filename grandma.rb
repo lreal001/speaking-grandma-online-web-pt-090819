@@ -17,6 +17,8 @@ string="#{gets}"
 def speak_to_grandma()
   if string== "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
-  if 
+  if string== "Hi Nana, how are you?"
+    puts "HUH?! SPEAK UP, SONNY!"
+  if string== 
 
 end
