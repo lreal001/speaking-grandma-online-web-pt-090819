@@ -17,14 +17,19 @@ string="#{gets}"
 def speak_to_grandma()
   if string== "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
+  end
   if string== "Hi Nana, how are you?"
     puts "HUH?! SPEAK UP, SONNY!"
+  end
   if string== "Hi"
     puts "HUH, SPEAK UP, SONNY!"
+  end
   if string== "WHAT DID YOU EAT TODAY?"
     puts "NO, NOT SINCE 1938!"
+  end
     if string== "WHAT?" 
     puts "NO, NOT SINCE 1938!"
+  end 
   string("WHAT?")  
 
 end
