@@ -12,7 +12,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-string="#{gets}"
+string="#{input.gets}"
 
 def speak_to_grandma()
   if string== "I LOVE YOU GRANDMA!"
