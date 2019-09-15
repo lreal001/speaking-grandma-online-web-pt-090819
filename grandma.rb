@@ -19,19 +19,19 @@ string= "WHAT DID YOU EAT TODAY?"
 
 def speak_to_grandma(string)
   if string== "I LOVE YOU GRANDMA!"
-    print "I LOVE YOU TOO PUMPKIN!"
+    return "I LOVE YOU TOO PUMPKIN!"
   end
   if string== "Hi Nana, how are you?"
-    print "HUH?! SPEAK UP, SONNY!"
+    return "HUH?! SPEAK UP, SONNY!"
   end
   if string== "Hi"
-    print "HUH, SPEAK UP, SONNY!"
+    return "HUH, SPEAK UP, SONNY!"
   end
   if string== "WHAT DID YOU EAT TODAY?"
-    print "NO, NOT SINCE 1938!"
+    return "NO, NOT SINCE 1938!"
   end
     if string== "WHAT?" 
-    print "NO, NOT SINCE 1938!"
+    return "NO, NOT SINCE 1938!"
   end 
   
 end
