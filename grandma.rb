@@ -21,6 +21,7 @@ def speak_to_grandma()
     puts "HUH?! SPEAK UP, SONNY!"
   if string== "Hi"
     puts "HUH, SPEAK UP, SONNY!"
-  
+  if string== "WHAT DID YOU EAT TODAY?"
+    puts "NO, NOT SINCE 1938!"
 
 end
