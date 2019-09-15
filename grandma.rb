@@ -28,7 +28,6 @@ def speak_to_grandma(string)
     return "HUH, SPEAK UP, SONNY!"
     
   end 
-    
   if string== "WHAT DID YOU EAT TODAY?"
     return "NO, NOT SINCE 1938!"
   end
