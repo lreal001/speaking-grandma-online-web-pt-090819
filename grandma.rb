@@ -12,10 +12,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-string= "I LOVE YOU GRANDMA!"
-string= "Hi Nana, how are you?"
-string= "Hi"
-string= "WHAT DID YOU EAT TODAY?"
+
 
 def speak_to_grandma(string)
   if string== "I LOVE YOU GRANDMA!"
