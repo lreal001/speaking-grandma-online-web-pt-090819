@@ -35,5 +35,5 @@ def speak_to_grandma(string)
   end 
   
 end
-string("WHAT?")
+speak_to_grandma("WHAT?")
  
