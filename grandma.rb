@@ -30,7 +30,7 @@ def speak_to_grandma(string)
   if string== "WHAT DID YOU EAT TODAY?"
     puts "NO, NOT SINCE 1938!"
   end
-    if (string)== "WHAT?" 
+    if string== "WHAT?" 
     puts "NO, NOT SINCE 1938!"
   end 
   
