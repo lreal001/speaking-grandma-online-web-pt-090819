@@ -21,16 +21,16 @@ def speak_to_grandma(string)
   if speak_to_grandma(string)== "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   end
-  if speak_to_grandma(string)== "Hi Nana, how are you?"
+  if (string)== "Hi Nana, how are you?"
     puts "HUH?! SPEAK UP, SONNY!"
   end
-  if speak_to_grandma(string)== "Hi"
+  if (string)== "Hi"
     puts "HUH, SPEAK UP, SONNY!"
   end
-  if speak_to_grandma(string)== "WHAT DID YOU EAT TODAY?"
+  if (string)== "WHAT DID YOU EAT TODAY?"
     puts "NO, NOT SINCE 1938!"
   end
-    if speak_to_grandma(string)== "WHAT?" 
+    if (string)== "WHAT?" 
     puts "NO, NOT SINCE 1938!"
   end 
   
