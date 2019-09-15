@@ -18,7 +18,7 @@ string= "Hi"
 string= "WHAT DID YOU EAT TODAY?"
 
 def speak_to_grandma(string)
-  if speak_to_grandma(string)== "I LOVE YOU GRANDMA!"
+  if (string)== "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   end
   if (string)== "Hi Nana, how are you?"
