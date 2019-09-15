@@ -12,8 +12,11 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-string=
+string="#{gets}"
 
 def speak_to_grandma()
+  if string== "I LOVE YOU GRANDMA!"
+    return "I LOVE YOU TOO PUMPKIN!"
+  if 
 
 end
