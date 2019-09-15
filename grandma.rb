@@ -15,7 +15,7 @@
 string= "I LOVE YOU GRANDMA!"
 string= "Hi Nana, how are you?"
 string= "Hi"
-string= 
+string= "WHAT DID YOU EAT TODAY?"
 
 def speak_to_grandma(string)
   if string== "I LOVE YOU GRANDMA!"
@@ -36,4 +36,4 @@ def speak_to_grandma(string)
   string("WHAT?")
 end
 
-ruby 
+ 
