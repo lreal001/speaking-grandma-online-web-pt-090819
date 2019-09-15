@@ -21,7 +21,7 @@ def speak_to_grandma(string)
   if string== "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   end
-  if string== "Hi Nana, how are you?"
+  if string== "Hi Nana, how are you?" || "Hi"
     return "HUH?! SPEAK UP, SONNY!"
   end
   if string== "Hi"
