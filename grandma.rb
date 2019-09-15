@@ -18,19 +18,19 @@ string= "Hi"
 string= "WHAT DID YOU EAT TODAY?"
 
 def speak_to_grandma(string)
-  if speak_to_grandma== "I LOVE YOU GRANDMA!"
+  if speak_to_grandma(string)== "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   end
-  if speak_to_grandma== "Hi Nana, how are you?"
+  if speak_to_grandma(string)== "Hi Nana, how are you?"
     puts "HUH?! SPEAK UP, SONNY!"
   end
-  if speak_to_grandma== "Hi"
+  if speak_to_grandma(string)== "Hi"
     puts "HUH, SPEAK UP, SONNY!"
   end
-  if speak_to_grandma== "WHAT DID YOU EAT TODAY?"
+  if speak_to_grandma(string)== "WHAT DID YOU EAT TODAY?"
     puts "NO, NOT SINCE 1938!"
   end
-    if speak_to_grandma== "WHAT?" 
+    if speak_to_grandma(string)== "WHAT?" 
     puts "NO, NOT SINCE 1938!"
   end 
   
