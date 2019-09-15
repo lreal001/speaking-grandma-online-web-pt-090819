@@ -12,7 +12,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-
+string= 
 
 def speak_to_grandma
   if string== "I LOVE YOU GRANDMA!"
@@ -30,6 +30,7 @@ def speak_to_grandma
     if string== "WHAT?" 
     puts "NO, NOT SINCE 1938!"
   end 
-  string()
+  string("WHAT?")
 end
 
+ruby 
