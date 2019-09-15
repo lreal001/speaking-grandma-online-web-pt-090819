@@ -13,9 +13,11 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 string= "I LOVE YOU GRANDMA!"
+string= "Hi Nana, how are you?"
+string= "Hi"
 string= 
 
-def speak_to_grandma
+def speak_to_grandma(string)
   if string== "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
   end
